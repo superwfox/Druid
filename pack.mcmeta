@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 61
+        },
+        "description": "§eDruid §7| 原版树木与植被修改"
+    }
+}
